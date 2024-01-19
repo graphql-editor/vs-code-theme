@@ -1,0 +1,61 @@
+{
+  "name": "graphql-editor-theme",
+  "displayName": "GraphQL Editor Theme",
+  "description": "Official theme of the GraphQL Editor application",
+  "version": "0.0.1",
+  "publisher": "graphql-editor",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aexol-studio/vs-code-theme"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#131524",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "GraphQL Editor",
+    "email": "hello@graphqleditor.com",
+    "url": "https://graphqleditor.com"
+  },
+  "keywords": [
+    "dark theme",
+    "GraphQL",
+    "GraphQL Editor",
+    "GraphQL playground",
+    "GraphQL ide",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "API",
+    "modern",
+    "elegant",
+    "sleek",
+    "minimalist",
+    "Visual Studio Code",
+    "VSCode",
+    "coding",
+    "programming",
+    "development",
+    "web development",
+    "software engineering",
+    "Aexol",
+    "GraphQL Editor theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GraphQL Editor Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GraphQL Editor Theme-color-theme.json"
+      }
+    ]
+  }
+}
