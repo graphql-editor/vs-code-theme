@@ -5,7 +5,7 @@ The GraphQL Editor Theme is based on the color palette of GraphQL Editor in dark
 ---
 ### 📷 Preview screenshots!
 ![TypeScript](./assets/screenshot.png)
-![TypeScript](./assets/screenshot2.png)
+![TypeScript](./assets/screen.png)
 ---
 ### 🚀 Installation
 
