@@ -3,9 +3,8 @@ The GraphQL Editor Theme is based on the color palette of GraphQL Editor in dark
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 
 ---
-### 📷 Preview screenshots!
+### 📷 Preview screenshot!
 ![TypeScript](./assets/screenshot.png)
-![TypeScript](./assets/screen.png)
 ---
 ### 🚀 Installation
 
