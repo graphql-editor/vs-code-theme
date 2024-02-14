@@ -2,7 +2,7 @@
   "name": "graphql-editor-theme",
   "displayName": "GraphQL Editor Theme",
   "description": "Official theme of the GraphQL Editor application",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "publisher": "graphql-editor",
   "engines": {
     "vscode": "^1.50.0"
