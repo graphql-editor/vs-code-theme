@@ -1870,6 +1870,7 @@
 		}
 	],
 	"colors": {
+		 "window.activeBorder": "#444444",
 		"foreground": "#cccccc",
 		"focusBorder": "#047bff",
 		"selection.background": "#047bff56",
