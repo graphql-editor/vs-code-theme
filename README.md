@@ -67,8 +67,6 @@ Best regards, GrapQL Editor.
 </a>
 </h2>
 
----
-
 ## 📜 License
 
 This theme pack extension is released under the MIT License.\
