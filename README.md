@@ -62,7 +62,7 @@ Best regards, GrapQL Editor.
 ## SPONSORS
 
 <h2>
-<a href="https://aexol.com/" target="__blank" style="display: flex; align-items: center; text-decoration: none;">
+<a href="https://aexol.com/" target="__blank" style="display:flex;align-items:center;">
 <img src="./assets/aexol.png" style="margin-right: 7px; height: 50px; width: 50px"/>Aexol
 </a>
 </h2>
