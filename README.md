@@ -62,9 +62,8 @@ Best regards, GrapQL Editor.
 ## SPONSORS
 
 <h2>
-<a href="https://aexol.com/" target="__blank"  style="display:flex;align-items:center;">
-<img src="./assets/aexol.png" style="margin-right:5px;height:30px;width:30px"/>Aexol
-
+<a href="https://aexol.com/" target="__blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+<img src="./assets/aexol.png" style="margin-right: 2px; height: 30px; width: 30px"/>Aexol
 </a>
 </h2>
 
