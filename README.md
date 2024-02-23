@@ -62,16 +62,21 @@ Best regards, GrapQL Editor.
 ## SPONSORS
 
 <table>
-    <tr>
-        <td style="vertical-align:center">
+    <tr style="border:0">
+        <td style="vertical-align:center; border:0;">
         <a href="https://aexol.com/" target="__blank">
           <img src="./assets/aexol.png" style="height: 50px;width: 50px;max-width: 100%; vertical-align: middle !important; margin-right: 5px;"/>
 </a>
         </td>
-        <td style="vertical-align:center">
+        <td style="vertical-align:center; border:0;">
+         <a href="https://aexol.com/" target="__blank">
+
 <span>Aexol</span>
-        </td>
-    </tr>
+</a>
+
+</td>
+</tr>
+
 </table>
 
 ## 📜 License
